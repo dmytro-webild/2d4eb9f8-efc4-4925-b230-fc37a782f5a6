@@ -50,12 +50,12 @@ export default function LandingPage() {
       background={{
         variant: "plain"}}
       title="Aracınız Güvende"
-      description="AutoFix Garage'da aracınız uzman ellerde, en son teknoloji ve profesyonel hizmetle güvende. Kaliteli tamir ve bakım için doğru adres."
+      description=" Dinç Oto'da aracınız uzman ellerde, en son teknoloji ve profesyonel hizmetle güvende. Kaliteli tamir ve bakım için doğru adres."
       buttons={[
         {
           text: "Hemen Randevu Al",          href: "/contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/blurred-nightlights-city_23-2149049642.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ex5UXrq7wo5d34PD40QNS056fq/uploaded-1781107819671-3v0s0i89.png"
       imageAlt="Lüks araç ve tamirhane görseli"
     />
   </div>
@@ -68,7 +68,7 @@ export default function LandingPage() {
       animationType="slide-up"
       metrics={[
         {
-          id: "metric-1",          value: "5000+",          description: "Tamir Edilen Araç"},
+          id: "metric-1",          value: "25000+",          description: "Tamir Edilen Araç"},
         {
           id: "metric-2",          value: "15",          description: "Yıllık Deneyim"},
         {
