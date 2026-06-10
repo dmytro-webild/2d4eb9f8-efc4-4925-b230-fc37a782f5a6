@@ -55,7 +55,7 @@ export default function LandingPage() {
         {
           text: "Hemen Randevu Al",          href: "/contact"},
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ex5UXrq7wo5d34PD40QNS056fq/uploaded-1781108576370-0089ghc6.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ex5UXrq7wo5d34PD40QNS056fq/uploaded-1781108629523-vt8e9hrl.png"
       imageAlt="Lüks araç ve tamirhane görseli"
     />
   </div>
