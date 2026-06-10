@@ -119,9 +119,9 @@ export default function LandingPage() {
         {
           value: "99%",          label: "Müşteri Memnuniyeti"},
         {
-          value: "24/7",          label: "Acil Servis"},
+          value: "18/8",          label: "Acil Servis"},
         {
-          value: "1 Saat",          label: "Ort. Teslim Süresi"},
+          value: "1 Saat-4 Gün",          label: "Ort. Teslim Süresi"},
       ]}
       title="Müşterilerimiz Ne Diyor?"
       description="Müşterilerimizin Dinç Oto hakkındaki düşüncelerini okuyun."
@@ -156,7 +156,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterBaseReveal
-      logoText="AutoFix Garage"
+      logoText="Dinç Oto "
       columns={[
         {
           title: "Hizmetler",          items: [
