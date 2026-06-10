@@ -106,10 +106,10 @@ export default function LandingPage() {
           id: "2",          name: "Elif Demir",          role: "Pazarlama Müdürü",          company: "Moda Evi",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/female-mechanic-servicing-car_1170-1518.jpg",          imageAlt: "Elif Demir fotoğrafı"},
         {
-          id: "3",          name: "Mehmet Can",          role: "Serbest Çalışan",          company: "Self-Employed",          rating: 5,
+          id: "3",          name: "Ayşe Melek ",          role: "Serbest Çalışan",          company: "Self-Employed",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/person-preparing-get-driver-license_23-2150167593.jpg",          imageAlt: "Mehmet Can fotoğrafı"},
         {
-          id: "4",          name: "Zeynep Kaya",          role: "Öğretmen",          company: "Devlet Okulu",          rating: 5,
+          id: "4",          name: "Ahmet Gündüz ",          role: "Öğretmen",          company: "Devlet Okulu",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/young-handsome-business-man-choosing-car-car-showroom_1303-17894.jpg",          imageAlt: "Zeynep Kaya fotoğrafı"},
         {
           id: "5",          name: "Emre Aktaş",          role: "Girişimci",          company: "Startup Hub",          rating: 5,
