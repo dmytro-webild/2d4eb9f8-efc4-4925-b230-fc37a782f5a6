@@ -191,7 +191,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 AutoFix Garage. Tüm hakları saklıdır."
+      copyrightText="© 2024 Dinç Oto Tüm hakları saklıdır."
     />
   </div>
       </ReactLenis>
