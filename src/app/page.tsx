@@ -72,7 +72,7 @@ export default function LandingPage() {
         {
           id: "metric-2",          value: "15",          description: "Yıllık Deneyim"},
         {
-          id: "metric-3",          value: "1000+",          description: "Mutlu Müşteri"},
+          id: "metric-3",          value: "15000+ ",          description: "Mutlu Müşteri"},
       ]}
       title="Başarılarımız"
       description="Yılların deneyimi ve binlerce mutlu müşteri ile gurur duyuyoruz."
@@ -124,7 +124,7 @@ export default function LandingPage() {
           value: "1 Saat",          label: "Ort. Teslim Süresi"},
       ]}
       title="Müşterilerimiz Ne Diyor?"
-      description="Müşterilerimizin AutoFix Garage hakkındaki düşüncelerini okuyun."
+      description="Müşterilerimizin Dinç Oto hakkındaki düşüncelerini okuyun."
     />
   </div>
 
@@ -133,7 +133,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       title="Neden Bizi Tercih Etmelisiniz?"
-      description="AutoFix Garage olarak, aracınıza gösterdiğimiz özen ve sunduğumuz profesyonel hizmetlerle fark yaratıyoruz. Her bir detayı titizlikle ele alıyor, aracınızın güvenliğini ve performansını en üst seviyede tutmayı hedefliyoruz."
+      description="Dinç Oto olarak, aracınıza gösterdiğimiz özen ve sunduğumuz profesyonel hizmetlerle fark yaratıyoruz. Her bir detayı titizlikle ele alıyor, aracınızın güvenliğini ve performansını en üst seviyede tutmayı hedefliyoruz."
       bulletPoints={[
         {
           title: "Uzman Teknik Ekip",          description: "Alanında uzman, deneyimli ve sertifikalı teknisyenlerimizle aracınız emin ellerde.",          icon: Users,
